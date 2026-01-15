@@ -67,3 +67,9 @@ Arquivo onde os dados cadastrados são armazenados.
 - Na opção de consulta, o sistema lê o arquivo e apresenta:
 
 Dados por estado, total de profissionais da saúde infectados e total da população geral infectada.
+
+
+
+https://github.com/user-attachments/assets/a0587ca0-26f6-4cd6-91d1-70fb5bd3be68
+
+
